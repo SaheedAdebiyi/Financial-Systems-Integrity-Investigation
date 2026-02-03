@@ -3,9 +3,8 @@
 **Date:** 2026-2-03
 ---
 ## Project Background
-**Financial transaction systems often rely on multiple third-party providers to process payments and deliver services. In this project, transaction data flows from a mobile application to different downstream systems depending on the transaction type—bank transfers or utility payments. However, inconsistencies such as missing records, failed settlements, and undelivered services can lead to financial losses, customer complaints, and audit risks.**
-
-**This project focuses on transaction reconciliation using SQL to identify utility transactions that were initiated in the application but never successfully processed by either of the designated utility service providers. By reconciling data across multiple systems, the analysis highlights gaps in transaction flow and quantifies potential financial exposure.**
+Financial transaction systems often rely on multiple third-party providers to process payments and deliver services. In this project, transaction data flows from a mobile application to different downstream systems depending on the transaction type: bank transfers or utility payments. However, inconsistencies such as missing records, failed settlements, and undelivered services can lead to financial losses, customer complaints, and audit risks.
+This project focuses on transaction reconciliation using SQL to identify utility transactions that were initiated in the application but never successfully processed by either of the designated utility service providers. By reconciling data across multiple systems, the analysis highlights gaps in transaction flow and quantifies potential financial exposure.
 ---
 ## Project Objective
 The following objectives guide the analysis of platform performance and fraud detection to identify key issues and actionable insights.
